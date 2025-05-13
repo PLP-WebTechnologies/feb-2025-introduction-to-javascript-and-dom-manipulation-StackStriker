@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+section{
+    margin-bottom: 20px;
+}
+
+button{
+    margin: 5px;
+    padding: 10px;
+    background-color: lightgreen;
+    border: none;
+}
